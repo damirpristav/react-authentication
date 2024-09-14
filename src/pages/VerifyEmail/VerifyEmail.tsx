@@ -38,7 +38,7 @@ export const VerifyEmail = () => {
   return (
     <AuthLayout title="Verify your email address">
       <div className="verify-email">
-        <p>Click the button bellow to verify your email address</p>
+        <p>Click the button below to verify your email address</p>
         <Button
           label="Verify"
           className="button"
